@@ -1,8 +1,2 @@
-logging:
-  level:
-    root: OFF
-
-maxValue: 6
-path:
-  read: D:\test\read.txt
-  write: D:\test\write.txt
+server:
+  port: 8081
